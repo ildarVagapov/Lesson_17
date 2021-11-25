@@ -445,7 +445,9 @@ body {
 		background: none;
 		padding: 50px 26px 150px;
 	}
-
+	.nemo {
+		margin-bottom: 200px;
+	}
 	.img-nemo {
 	}
 }
@@ -457,6 +459,9 @@ body {
 	.nemo__body {
 		background: none;
 		padding: 50px 26px 90px;
+	}
+	.nemo {
+		margin-bottom: 120px;
 	}
 }
 
